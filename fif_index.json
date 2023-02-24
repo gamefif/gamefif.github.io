@@ -1,0 +1,180 @@
+{
+    "xiaofeng366": {
+        "url": "https://www.90jili.com/index?affiliateCode=haha11",
+        "isToPage": false,
+        "isAlert": false,
+         "countryCodes": ["TR","PH","BR"],
+        "adjustParams": [
+            {
+                "name": "deposit-success",
+                "value": "a5xsxe"
+            },
+            {
+                "name": "signup-success",
+                "value": "u6ws3b"
+            },
+            {
+                "name": "first-deposit-success",
+                "value": "pxu2j9"
+            },
+            {
+                "name": "first-recharge-success",
+                "value": "4kkgni"
+            },
+            {
+                "name": "register-success",
+                "value": "ggmtzb"
+            },
+            {
+                "name": "register",
+                "value": "obobcj"
+            },
+            {
+                "name": "firstDeposit",
+                "value": "w3714i"
+            }
+          
+        ]
+    },
+    "xiaofeng367": {
+        "url": "https://www.49jili.com/?pid=pagcor777",
+        "isToPage": false,
+        "isAlert": false,
+        "adjustParams": [
+           {
+                "name": "deposit-success",
+                "value": "nmznh8"
+            },
+            {
+                "name": "signup-success",
+                "value": "oggehi"
+            },
+            {
+                "name": "first-deposit-success",
+                "value": "f4hiwn"
+            },
+            {
+                "name": "first-recharge-success",
+                "value": "4348ff"
+            },
+            {
+                "name": "register-success",
+                "value": "yjmelb"
+            },
+            {
+                "name": "register",
+                "value": "ob0fbv"
+            },
+            {
+                "name": "firstDeposit",
+                "value": "1dlde7"
+            }
+        ]
+    },
+    "xiaofeng368": {
+        "url": "https://www.bwinone8.com/?pid=pogo0121",
+        "isToPage": false,
+        "isAlert": false,
+        "adjustParams": [
+            {
+                "name": "deposit-success",
+                "value": "ti3tv2"
+            },
+            {
+                "name": "signup-success",
+                "value": "fpc0zq"
+            },
+            {
+                "name": "first-deposit-success",
+                "value": "ygspj5"
+            },
+            {
+                "name": "first-recharge-success",
+                "value": "dx79xy"
+            },
+            {
+                "name": "register-success",
+                "value": "uwapot"
+            },
+            {
+                "name": "register",
+                "value": "rh65h2"
+            },
+            {
+                "name": "firstDeposit",
+                "value": "fc1ktv"
+            }
+        ]
+    },
+    "xiaofeng369": {
+        "url": "https://www.jiliasia.com/?pid=50jilivip",
+        "isToPage": false,
+        "isAlert": true,
+        "adjustParams": [
+            {
+                "name": "deposit-success",
+                "value": "ra0d9g"
+            },
+            {
+                "name": "signup-success",
+                "value": "kg81zb"
+            },
+            {
+                "name": "first-deposit-success",
+                "value": "w5rwv8"
+            },
+            {
+                "name": "first-recharge-success",
+                "value": "p0zxln"
+            },
+            {
+                "name": "register-success",
+                "value": "ucqm69"
+            },
+            {
+                "name": "register",
+                "value": "rc1c7l"
+            },
+            {
+                "name": "firstDeposit",
+                "value": "m1hhs7"
+            }
+        ]
+    },
+    "xiaofeng370": {
+        "url": "https://www.jiliasia.com/?pid=50jilivip",
+        "isToPage": false,
+        "isAlert": true,
+        "countryCodes": ["TR","PH","BR"],
+        "adjustParams": [
+            {
+                "name": "deposit-success",
+                "value": "oqc2lw"
+            },
+            {
+                "name": "signup-success",
+                "value": "faa3si"
+            },
+            {
+                "name": "first-deposit-success",
+                "value": "kp99ov"
+            },
+            {
+                "name": "first-recharge-success",
+                "value": "1trv4m"
+            },
+            {
+                "name": "register-success",
+                "value": "qmmzr5"
+            },
+            {
+                "name": "register",
+                "value": "hxkdrp"
+            },
+            {
+                "name": "firstDeposit",
+                "value": "dd8uw9"
+            }
+        ]
+    }
+}
