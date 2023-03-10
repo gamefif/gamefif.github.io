@@ -1,9 +1,9 @@
 {
     "xiaofeng366": {
         "url": "https://www.90jili.com/index?affiliateCode=haha11",
-        "isToPage": false,
+        "isToPage": true,
         "isAlert": false,
-         "countryCodes": ["TR","PH","BR"],
+        "countryCodes": ["PH","LA"],
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -107,9 +107,10 @@
         ]
     },
     "xiaofeng369": {
-        "url": "https://www.jiliasia.com/?pid=50jilivip",
-        "isToPage": false,
-        "isAlert": true,
+        "url": "https://www.90jili.com/index?affiliateCode=haha11",
+        "isToPage": true,
+        "isAlert": false,
+        "countryCodes": ["PH","LA"],
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -142,10 +143,10 @@
         ]
     },
     "xiaofeng370": {
-        "url": "https://www.jiliasia.com/?pid=50jilivip",
-        "isToPage": false,
-        "isAlert": true,
-        "countryCodes": ["TR","PH","BR"],
+        "url": "https://www.90jili.com/index?affiliateCode=haha11",
+        "isToPage": true,
+        "isAlert": false,
+        "countryCodes": ["PH","LA"],
         "adjustParams": [
             {
                 "name": "deposit-success",
